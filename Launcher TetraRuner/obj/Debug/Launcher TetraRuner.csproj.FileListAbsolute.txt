@@ -1,0 +1,11 @@
+D:\2new\Launcher TetraRuner\bin\Debug\Launcher TetraRuner.exe.config
+D:\2new\Launcher TetraRuner\bin\Debug\Launcher TetraRuner.exe
+D:\2new\Launcher TetraRuner\bin\Debug\Launcher TetraRuner.pdb
+D:\2new\Launcher TetraRuner\obj\Debug\Launcher TetraRuner.csproj.AssemblyReference.cache
+D:\2new\Launcher TetraRuner\obj\Debug\Launcher TetraRuner.csproj.SuggestedBindingRedirects.cache
+D:\2new\Launcher TetraRuner\obj\Debug\Launcher_TetraRuner.Form1.resources
+D:\2new\Launcher TetraRuner\obj\Debug\Launcher_TetraRuner.Properties.Resources.resources
+D:\2new\Launcher TetraRuner\obj\Debug\Launcher TetraRuner.csproj.GenerateResource.cache
+D:\2new\Launcher TetraRuner\obj\Debug\Launcher TetraRuner.csproj.CoreCompileInputs.cache
+D:\2new\Launcher TetraRuner\obj\Debug\Launcher TetraRuner.exe
+D:\2new\Launcher TetraRuner\obj\Debug\Launcher TetraRuner.pdb
